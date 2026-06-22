@@ -19,7 +19,7 @@
 
 ### ⚡ What I actually do
 
-Most candidates come at AI from one side — pure software, or pure hardware. I work both, because that's what EXTC gave me: real circuits, real sensors, and the math underneath them. That's why my AI/ML and data analyst work tends to ask "what does this cost to run, and where does it actually run" before "how accurate is it."
+Most candidates come at AI from one side pure software, or pure hardware. I work both, because that's what EXTC gave me: real circuits, real sensors, and the math underneath them. That's why my AI/ML and data analyst work tends to ask "what does this cost to run, and where does it actually run" before "how accurate is it."
 
 ```
 Sensor Hardware  →  Signal Processing  →  ML Model  →  Cloud Deployment  →  AI Agents
@@ -60,7 +60,7 @@ Real-time heart rate, SpO2, and activity tracking on a Seeeduino Nano (ARM Corte
 **🔒 Network Intrusion Detection System**
 *ML-powered REST API for cyber-attack classification*
 
-Classifies DoS, Probe, R2L, and U2R attacks with **97.3% accuracy**. Deployed on IBM Cloud via FastAPI/Flask for real-time inference — built on knowledge from my cybersecurity internship.
+Classifies DoS, Probe, R2L, and U2R attacks with **97.3% accuracy**. Deployed on IBM Cloud via FastAPI/Flask for real-time inference built on knowledge from my cybersecurity internship.
 
 `Python` `Scikit-learn` `FastAPI` `IBM Cloud`
 
@@ -90,13 +90,13 @@ LangChain-based chatbot grounding LLM responses in retrieved context for accurat
 </tr>
 </table>
 
-> 📌 *Pinned repos below have full READMEs with architecture, setup steps, and results — happy to walk through the code on a call.*
+> 📌 *Pinned repos below have full READMEs with architecture, setup steps, and results happy to walk through the code on a call.*
 
 ---
 
 ### 🤖 Currently Leveling Up In: Agentic AI
 
-Completed the **5-Day AI Agents Intensive Course with Google** — hands-on with agent design patterns, the Agent Development Kit (ADK), context management, and tool-use orchestration. Actively applying this to build autonomous, multi-step AI workflows beyond single-turn LLM calls.
+Completed the **5-Day AI Agents Intensive Course with Google** hands-on with agent design patterns, the Agent Development Kit (ADK), context management, and tool-use orchestration. Actively applying this to build autonomous, multi-step AI workflows beyond single-turn LLM calls.
 
 `Agent Development Kit (ADK)` `Context Engineering` `Tool Use / Function Calling` `Multi-Agent Systems`
 
