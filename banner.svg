@@ -1,0 +1,95 @@
+<svg width="1280" height="300" viewBox="0 0 1280 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#03050a"/>
+      <stop offset="50%" stop-color="#0a1620"/>
+      <stop offset="100%" stop-color="#041018"/>
+    </linearGradient>
+    <linearGradient id="goldRing" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#e2d398" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#e2d398" stop-opacity="0.95"/>
+      <stop offset="100%" stop-color="#e2d398" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="cyanRing" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#6fd4ff" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#6fd4ff" stop-opacity="0.95"/>
+      <stop offset="100%" stop-color="#6fd4ff" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="coreGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#f3e9c2" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#f3e9c2" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#9fe8ff"/>
+      <stop offset="50%" stop-color="#e9eef5"/>
+      <stop offset="100%" stop-color="#e2d398"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1280" height="300" fill="url(#bg)"/>
+
+  <!-- syntax-highlighted code, top-left, matching PFP's keyword/identifier/string color split -->
+  <g font-family="Consolas, Menlo, monospace" font-size="13" opacity="0.55">
+    <!-- indent guides -->
+    <line x1="58" y1="48" x2="58" y2="135" stroke="#3a4a55" stroke-width="1"/>
+    <line x1="78" y1="68" x2="78" y2="118" stroke="#3a4a55" stroke-width="1"/>
+
+    <text x="46" y="48"><tspan fill="#6fd4ff">def</tspan><tspan fill="#e9eef5"> build_edge_ai</tspan><tspan fill="#cfd9e3">():</tspan></text>
+    <text x="64" y="68"><tspan fill="#c9a6e0">import</tspan><tspan fill="#e2d398"> power</tspan></text>
+    <text x="46" y="93"><tspan fill="#6fd4ff">if</tspan><tspan fill="#e9eef5"> signal &gt;= 0:</tspan></text>
+    <text x="64" y="113"><tspan fill="#c9a6e0">return</tspan><tspan fill="#e9eef5"> model</tspan><tspan fill="#e2d398">(x)</tspan></text>
+    <text x="46" y="138"><tspan fill="#6fd4ff">if</tspan><tspan fill="#e9eef5"> accuracy &gt;= </tspan><tspan fill="#e2d398">97.3</tspan><tspan fill="#cfd9e3">:</tspan></text>
+  </g>
+
+  <!-- syntax-highlighted code, top-right -->
+  <g font-family="Consolas, Menlo, monospace" font-size="13" opacity="0.55">
+    <line x1="1198" y1="48" x2="1198" y2="135" stroke="#3a4a55" stroke-width="1"/>
+    <line x1="1178" y1="68" x2="1178" y2="118" stroke="#3a4a55" stroke-width="1"/>
+
+    <text x="1130" y="48" fill="#6fd4ff">class Agent:</text>
+    <text x="1148" y="68" fill="#e9eef5">def act(ctx):</text>
+    <text x="1130" y="93" fill="#e2d398">while True:</text>
+    <text x="1148" y="113" fill="#c9a6e0">yield decide()</text>
+    <text x="1130" y="138" fill="#6fd4ff">return "shipped"</text>
+  </g>
+
+  <!-- bottom-left snippet, echoing PFP's lower-left block -->
+  <g font-family="Consolas, Menlo, monospace" font-size="12" opacity="0.4">
+    <text x="46" y="258"><tspan fill="#6fd4ff">for </tspan><tspan fill="#e9eef5">sensor </tspan><tspan fill="#c9a6e0">in </tspan><tspan fill="#e9eef5">stream:</tspan></text>
+    <text x="64" y="276"><tspan fill="#6fd4ff">if </tspan><tspan fill="#e9eef5">strength &gt;= </tspan><tspan fill="#e2d398">100</tspan><tspan fill="#cfd9e3">:</tspan></text>
+    <text x="82" y="294"><tspan fill="#e9eef5">ship</tspan><tspan fill="#e2d398">(edge_node)</tspan></text>
+  </g>
+
+  <!-- proper flowchart, bottom-right, matching PFP's terminal/parallelogram/diamond structure -->
+  <g stroke="#6fd4ff" stroke-width="1.2" fill="none" opacity="0.45">
+    <rect x="1148" y="216" width="52" height="15" rx="7.5"/>
+    <line x1="1174" y1="231" x2="1174" y2="238"/>
+    <polygon points="1174,238 1170,232 1178,232" fill="#6fd4ff"/>
+    <path d="M1152 238 L1196 238 L1190 249 L1146 249 Z"/>
+    <line x1="1174" y1="249" x2="1174" y2="256"/>
+    <polygon points="1174,256 1170,250 1178,250" fill="#6fd4ff"/>
+    <polygon points="1174,256 1196,269 1174,282 1152,269" />
+    <text x="1200" y="272" font-family="Consolas, Menlo, monospace" font-size="9" fill="#6fd4ff" opacity="0.8">Yes</text>
+  </g>
+
+  <!-- small terminal glyph, bottom-left, lighter echo -->
+  <g stroke="#cdb877" stroke-width="1" fill="none" opacity="0.45">
+    <rect x="44" y="216" width="30" height="13" rx="6.5"/>
+    <line x1="59" y1="229" x2="59" y2="240"/>
+    <polygon points="53,235 59,242 65,235" fill="#cdb877" stroke="none"/>
+  </g>
+
+  <!-- central glowing core behind the name, echoing the crown glow -->
+  <ellipse cx="640" cy="130" rx="220" ry="90" fill="url(#coreGlow)"/>
+
+  <!-- two orbit rings, gold + cyan, crossing behind the text like the PFP's crown rings -->
+  <ellipse cx="640" cy="150" rx="430" ry="34" fill="none" stroke="url(#cyanRing)" stroke-width="2.5" transform="rotate(-4 640 150)"/>
+  <ellipse cx="640" cy="160" rx="430" ry="30" fill="none" stroke="url(#goldRing)" stroke-width="2.5" transform="rotate(3 640 160)"/>
+
+  <!-- name -->
+  <text x="640" y="120" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="50" font-weight="700" fill="url(#textGrad)" letter-spacing="2">PRATHAM PASI</text>
+  <text x="640" y="160" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="19" font-weight="400" fill="#cfd9e3" letter-spacing="3">AI ENGINEER &#160;·&#160; AI/ML &#160;·&#160; DATA ANALYST</text>
+
+  <!-- code-style tagline -->
+  <text x="640" y="225" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="14" fill="#9fe8ff" opacity="0.9">def build(hardware, software): return power</text>
+</svg>
