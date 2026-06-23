@@ -7,7 +7,7 @@
 ### AI Engineer &nbsp;·&nbsp; AI/ML &nbsp;·&nbsp; Data Analyst
 **Final-year EXTC Engineer hands-on with both hardware and software, end to end.**
 
-<sub>Building cost-efficient, production-grade AI systems — from sensor firmware on a $15 microcontroller to ML APIs in the cloud to autonomous AI agents.</sub>
+<sub>Building cost-efficient, production-grade AI systems from sensor firmware on a $15 microcontroller to ML APIs in the cloud to autonomous AI agents.</sub>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-prathampasi-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prathampasi)
 [![Email](https://img.shields.io/badge/Email-prathampasi124%40gmail.com-39d0d8?style=flat&logo=gmail&logoColor=white)](mailto:prathampasi124@gmail.com)
