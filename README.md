@@ -5,7 +5,7 @@
 <div align="center">
 
 ### AI Engineer &nbsp;·&nbsp; AI/ML &nbsp;·&nbsp; Data Analyst
-**Final-year EXTC Engineer — hands-on with both hardware and software, end to end.**
+**Final-year EXTC Engineer hands-on with both hardware and software, end to end.**
 
 <sub>Building cost-efficient, production-grade AI systems — from sensor firmware on a $15 microcontroller to ML APIs in the cloud to autonomous AI agents.</sub>
 
@@ -50,7 +50,7 @@ Analyzed signalling and communication systems for metro railway operations; supp
 **🩺 Athlete Insight System**
 *Peer-reviewed wearable health monitor*
 
-Real-time heart rate, SpO2, and activity tracking on a Seeeduino Nano (ARM Cortex-M0+). ±2 BPM accuracy, built for under **$15**. Published in IJARESM, Vol. 14, Issue 3 — and won **3rd Place at TechSpark 2K26** intercollegiate competition.
+Real-time heart rate, SpO2, and activity tracking on a Seeeduino Nano (ARM Cortex-M0+). ±2 BPM accuracy, built for under **$15**. Published in IJARESM, Vol. 14, Issue 3 and won **3rd Place at TechSpark 2K26** intercollegiate competition.
 
 `Embedded C` `Seeeduino Nano` `BMA456` `MAX30102`
 
