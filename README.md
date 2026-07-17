@@ -21,9 +21,9 @@
 
 ### ⚡ Who I Am
 
-I engineer AI systems that run in production — not just notebooks.
+I engineer AI systems that run in production not just notebooks.
 
-During my IBM SkillsBuild internship, I **built, optimized, and deployed** a Network Intrusion Detection System on 125,000 rows hitting **97.3% accuracy** and serving live predictions via REST API on IBM Cloud. I **architected** multi-step AI agents with LangChain and Google ADK, **integrated** Gemini and Claude into automation pipelines, and **co-authored** a peer-reviewed wearable health system published in IJARESM 2026 (IF 9.175). I **lead** end-to-end — from embedded sensor firmware to cloud-scale inference to agentic workflows.
+During my IBM SkillsBuild internship, I **built, optimized, and deployed** a Network Intrusion Detection System on 125,000 rows hitting **97.3% accuracy** and serving live predictions via REST API on IBM Cloud. I **architected** multi-step AI agents with LangChain and Google ADK, **integrated** Gemini and Claude into automation pipelines, and **co-authored** a peer-reviewed wearable health system published in IJARESM 2026 (IF 9.175). I **lead** end-to-end from embedded sensor firmware to cloud-scale inference to agentic workflows.
 
 ```
 Engineered  →  Optimized  →  Deployed  →  Automated  →  Published
