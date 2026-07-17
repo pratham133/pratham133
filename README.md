@@ -23,7 +23,7 @@
 
 I engineer AI systems that run in production — not just notebooks.
 
-During my IBM SkillsBuild internship, I **built, optimized, and deployed** a Network Intrusion Detection System on 125,000 rows — hitting **97.3% accuracy** and serving live predictions via REST API on IBM Cloud. I **architected** multi-step AI agents with LangChain and Google ADK, **integrated** Gemini and Claude into automation pipelines, and **co-authored** a peer-reviewed wearable health system published in IJARESM 2026 (IF 9.175). I **lead** end-to-end — from embedded sensor firmware to cloud-scale inference to agentic workflows.
+During my IBM SkillsBuild internship, I **built, optimized, and deployed** a Network Intrusion Detection System on 125,000 rows hitting **97.3% accuracy** and serving live predictions via REST API on IBM Cloud. I **architected** multi-step AI agents with LangChain and Google ADK, **integrated** Gemini and Claude into automation pipelines, and **co-authored** a peer-reviewed wearable health system published in IJARESM 2026 (IF 9.175). I **lead** end-to-end — from embedded sensor firmware to cloud-scale inference to agentic workflows.
 
 ```
 Engineered  →  Optimized  →  Deployed  →  Automated  →  Published
@@ -58,7 +58,7 @@ Engineered  →  Optimized  →  Deployed  →  Automated  →  Published
 **🤖 AI Agents Automation**
 *Google 5-Day Intensive · 2026*
 
-**Architected** LangChain-orchestrated multi-step agents with RAG pipelines, **integrating** Gemini and Claude APIs to automate research, summarization, and workflow execution — **cutting** manual effort by an estimated **40%**.
+**Architected** LangChain-orchestrated multi-step agents with RAG pipelines, **integrating** Gemini and Claude APIs to automate research, summarization, and workflow execution **cutting** manual effort by an estimated **40%**.
 
 `Python` `LangChain` `Google ADK` `Gemini` `Claude` `RAG`
 
@@ -90,7 +90,7 @@ Engineered  →  Optimized  →  Deployed  →  Automated  →  Published
 **🩺 Athlete Insight System**
 *Published · IJARESM 2026 · IF 9.175*
 
-**Designed and led** a 4-member team from prototype to peer-reviewed publication. **Built** a real-time wearable health monitor — heart rate, SpO2, activity — on Seeeduino Nano, **achieving** ±2 BPM accuracy for **under $15**. **Won 3rd Place — TechSpark 2K26**.
+**Designed and led** a 4-member team from prototype to peer-reviewed publication. **Built** a real-time wearable health monitor — heart rate, SpO2, activity on Seeeduino Nano, **achieving** ±2 BPM accuracy for **under $15**. **Won 3rd Place — TechSpark 2K26**.
 
 `Embedded C` `Seeeduino Nano` `BMA456` `MAX30102`
 
@@ -152,17 +152,17 @@ Engineered  →  Optimized  →  Deployed  →  Automated  →  Published
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=pratham133&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=pratham133&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-### 🏆 Trophies
+### 📊 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=pratham133&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=pratham133&theme=tokyo-night&hide_border=true&area=true&area_color=6fd4ff" />
 
 </div>
 
