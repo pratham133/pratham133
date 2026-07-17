@@ -80,7 +80,7 @@ Engineered  →  Optimized  →  Deployed  →  Automated  →  Published
 **🛍️ AI E-commerce Return Reason Analyser**
 *NLP Pipeline · 2026*
 
-**Classified** unlabeled customer return data into 6 business-actionable categories by **engineering** an unsupervised NLP pipeline with spaCy, TF-IDF, and KMeans. **Delivered** a live-formula Excel dashboard surfacing root cause, fix, and priority per category — **eliminating** manual tagging effort entirely.
+**Classified** unlabeled customer return data into 6 business-actionable categories by **engineering** an unsupervised NLP pipeline with spaCy, TF-IDF, and KMeans. **Delivered** a live-formula Excel dashboard surfacing root cause, fix, and priority per category **eliminating** manual tagging effort entirely.
 
 `Python` `spaCy` `Scikit-learn` `Pandas` `openpyxl` `NLP`
 
@@ -90,7 +90,7 @@ Engineered  →  Optimized  →  Deployed  →  Automated  →  Published
 **🩺 Athlete Insight System**
 *Published · IJARESM 2026 · IF 9.175*
 
-**Designed and led** a 4-member team from prototype to peer-reviewed publication. **Built** a real-time wearable health monitor — heart rate, SpO2, activity on Seeeduino Nano, **achieving** ±2 BPM accuracy for **under $15**. **Won 3rd Place — TechSpark 2K26**.
+**Designed and led** a 4-member team from prototype to peer-reviewed publication. **Built** a real-time wearable health monitor heart rate, SpO2, activity on Seeeduino Nano, **achieving** ±2 BPM accuracy for **under $15**. **Won 3rd Place — TechSpark 2K26**.
 
 `Embedded C` `Seeeduino Nano` `BMA456` `MAX30102`
 
