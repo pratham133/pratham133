@@ -21,9 +21,9 @@
 
 ### ⚡ Who I Am
 
-I engineer AI systems that run in production not just notebooks.
+I engineer AI systems that run in production — not just notebooks.
 
-During my IBM SkillsBuild internship, I **built, optimized, and deployed** a Network Intrusion Detection System on 125,000 rows hitting **97.3% accuracy** and serving live predictions via REST API on IBM Cloud. I **architected** multi-step AI agents with LangChain and Google ADK, **integrated** Gemini and Claude into automation pipelines, and **co-authored** a peer-reviewed wearable health system published in IJARESM 2026 (IF 9.175). I **lead** end-to-end from embedded sensor firmware to cloud-scale inference to agentic workflows.
+During my IBM SkillsBuild internship, I **built, optimized, and deployed** a Network Intrusion Detection System on 125,000 rows — hitting **97.3% accuracy** and serving live predictions via REST API on IBM Cloud. I **architected** multi-step AI agents with LangChain and Google ADK, **integrated** Gemini and Claude into automation pipelines, and **co-authored** a peer-reviewed wearable health system published in IJARESM 2026 (IF 9.175). I **lead** end-to-end — from embedded sensor firmware to cloud-scale inference to agentic workflows.
 
 ```
 Engineered  →  Optimized  →  Deployed  →  Automated  →  Published
@@ -34,7 +34,7 @@ Engineered  →  Optimized  →  Deployed  →  Automated  →  Published
 
 ### 💼 Experience
 
-**Cloud & AI Engineer Intern** — IBM SkillsBuild · AICTE &nbsp;`Jun – Jul 2024`
+**Cloud & AI Engineer Intern** — IBM SkillsBuild · AICTE &nbsp;`Jun – Jul 2025`
 - **Engineered and deployed** a Scikit-learn intrusion-detection pipeline on 125,000 rows, achieving **97.3% accuracy** as a live REST API on IBM Cloud
 - **Accelerated** model-selection decisions by 30%+ by generating KPI-driven EDA reports (precision, recall, F1)
 - **Integrated** Gemini and Claude into automated ML workflows, streamlining the end-to-end pipeline
@@ -58,7 +58,7 @@ Engineered  →  Optimized  →  Deployed  →  Automated  →  Published
 **🤖 AI Agents Automation**
 *Google 5-Day Intensive · 2026*
 
-**Architected** LangChain-orchestrated multi-step agents with RAG pipelines, **integrating** Gemini and Claude APIs to automate research, summarization, and workflow execution **cutting** manual effort by an estimated **40%**.
+**Architected** LangChain-orchestrated multi-step agents with RAG pipelines, **integrating** Gemini and Claude APIs to automate research, summarization, and workflow execution — **cutting** manual effort by an estimated **40%**.
 
 `Python` `LangChain` `Google ADK` `Gemini` `Claude` `RAG`
 
@@ -80,7 +80,7 @@ Engineered  →  Optimized  →  Deployed  →  Automated  →  Published
 **🛍️ AI E-commerce Return Reason Analyser**
 *NLP Pipeline · 2026*
 
-**Classified** unlabeled customer return data into 6 business-actionable categories by **engineering** an unsupervised NLP pipeline with spaCy, TF-IDF, and KMeans. **Delivered** a live-formula Excel dashboard surfacing root cause, fix, and priority per category **eliminating** manual tagging effort entirely.
+**Classified** unlabeled customer return data into 6 business-actionable categories by **engineering** an unsupervised NLP pipeline with spaCy, TF-IDF, and KMeans. **Delivered** a live-formula Excel dashboard surfacing root cause, fix, and priority per category — **eliminating** manual tagging effort entirely.
 
 `Python` `spaCy` `Scikit-learn` `Pandas` `openpyxl` `NLP`
 
@@ -90,7 +90,7 @@ Engineered  →  Optimized  →  Deployed  →  Automated  →  Published
 **🩺 Athlete Insight System**
 *Published · IJARESM 2026 · IF 9.175*
 
-**Designed and led** a 4-member team from prototype to peer-reviewed publication. **Built** a real-time wearable health monitor heart rate, SpO2, activity on Seeeduino Nano, **achieving** ±2 BPM accuracy for **under $15**. **Won 3rd Place — TechSpark 2K26**.
+**Designed and led** a 4-member team from prototype to peer-reviewed publication. **Built** a real-time wearable health monitor — heart rate, SpO2, activity — on Seeeduino Nano, **achieving** ±2 BPM accuracy for **under $15**. **Won 3rd Place — TechSpark 2K26**.
 
 `Embedded C` `Seeeduino Nano` `BMA456` `MAX30102`
 
@@ -162,7 +162,7 @@ Engineered  →  Optimized  →  Deployed  →  Automated  →  Published
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=pratham133&theme=tokyo-night&hide_border=true&area=true&area_color=6fd4ff"/ >
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=pratham133&theme=tokyo-night&hide_border=true&area=true&area_color=6fd4ff" />
 
 </div>
 
