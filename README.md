@@ -34,7 +34,7 @@ Engineered  →  Optimized  →  Deployed  →  Automated  →  Published
 
 ### 💼 Experience
 
-**Cloud & AI Engineer Intern** — IBM SkillsBuild · AICTE &nbsp;`Jun – Jul 2025`
+**Cloud & AI Engineer Intern** — IBM SkillsBuild · AICTE &nbsp;`Jun – Jul 2024`
 - **Engineered and deployed** a Scikit-learn intrusion-detection pipeline on 125,000 rows, achieving **97.3% accuracy** as a live REST API on IBM Cloud
 - **Accelerated** model-selection decisions by 30%+ by generating KPI-driven EDA reports (precision, recall, F1)
 - **Integrated** Gemini and Claude into automated ML workflows, streamlining the end-to-end pipeline
